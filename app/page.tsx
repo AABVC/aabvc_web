@@ -29,7 +29,7 @@ export default function Home() {
           <rect width="100%" height="100%" filter="url(#noise)"></rect>
         </svg>
         <main className="flex flex-col justify-center h-[90%] static md:fixed w-screen overflow-hidden grid-rows-[1fr_repeat(3,auto)_1fr] z-[100] pt-[30px] pb-[320px] px-4 md:px-20 md:py-0">
-          <span className="font-bold text-lg">AAB VC</span>
+          <span className="font-bold text-2xl">AAB VC</span>
          
 
           <motion.h1
