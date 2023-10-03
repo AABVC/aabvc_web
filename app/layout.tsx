@@ -9,7 +9,7 @@ export const metadata: Metadata = {
       "AAB VC is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: [
       {
-        url: https://demo.useliftoff.com/opengraph-image,
+        url: "https://nmusjgzqwtmrfcgxmxbm.supabase.co/storage/v1/object/public/aabc/AABVC-image.png",
       },
     ],
   },
@@ -18,10 +18,10 @@ export const metadata: Metadata = {
     title: "AAB VC",
     description:
       "AAB VC is an AI-powered mock interview platform that helps you practice for your next job interview.",
-    images: ["https://demo.useliftoff.com/opengraph-image"],
+    images: ["https://nmusjgzqwtmrfcgxmxbm.supabase.co/storage/v1/object/public/aabc/AABVC-image.png"],
     creator: "@tmeyer_me",
   },
-  metadataBase: new URL("https://demo.useliftoff.com"),
+  metadataBase: new URL("https://aabvc.com"),
   themeColor: "#FFF",
 };
 
