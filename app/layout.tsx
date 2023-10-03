@@ -9,7 +9,10 @@ export const metadata: Metadata = {
       "AAB VC is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: [
       {
-        url: "https://demo.useliftoff.com/opengraph-image",
+        url: {new URL(
+            "../public/apple-touch-icon.png",
+            import.meta.url
+          ).toString()},
       },
     ],
   },
