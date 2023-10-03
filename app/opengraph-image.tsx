@@ -45,7 +45,7 @@ export default async function OG() {
             letterSpacing: "-0.02em",
           }}
         >
-          AAB VC AI
+          Committed to global investiment
         </h1>
       </div>
     ),
