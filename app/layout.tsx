@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     description:
       "AAB VC is an AI-powered mock interview platform that helps you practice for your next job interview.",
     images: ["https://nmusjgzqwtmrfcgxmxbm.supabase.co/storage/v1/object/public/aabc/AABVC-image.png"],
-    creator: "@tmeyer_me",
+    creator: "@brian",
   },
   metadataBase: new URL("https://aabvc.com"),
   themeColor: "#FFF",
