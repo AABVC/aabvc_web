@@ -32,21 +32,9 @@ export default async function OG() {
             import.meta.url
           ).toString()}
           alt="Aab VC Logo"
-          tw="w-20 h-20 mb-4 opacity-95"
+          tw="w-full h-full mb-4 opacity-95"
         />
-        <h1
-          style={{
-            fontSize: "100px",
-            background:
-              "linear-gradient(to bottom right, #1E2B3A 21.66%, #78716c 86.47%)",
-            backgroundClip: "text",
-            color: "transparent",
-            lineHeight: "5rem",
-            letterSpacing: "-0.02em",
-          }}
-        >
-          Committed to global investiment
-        </h1>
+       
       </div>
     ),
     {
