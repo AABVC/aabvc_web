@@ -32,7 +32,7 @@ export default async function OG() {
             import.meta.url
           ).toString()}
           alt="Aab VC Logo"
-          tw="w-full h-full mb-4 opacity-95"
+          tw="w-full h-full mb-0 opacity-95"
         />
        
       </div>
