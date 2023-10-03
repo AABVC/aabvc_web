@@ -28,7 +28,7 @@ export default async function OG() {
       >
         <img
           src={new URL(
-            "../public/apple-touch-icon.png",
+            "../public/aabvc.png",
             import.meta.url
           ).toString()}
           alt="Aab VC Logo"
