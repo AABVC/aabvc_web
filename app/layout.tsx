@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "AAB VC",
     description:
-      "AAB VC is an AI-powered mock interview platform that helps you practice for your next job interview.",
+      "AAB VC is an independent private principal investor engaged in control investments in privately owned businesses with significant growth potential in Asia and beyond.",
     images: [
       {
         url: "https://nmusjgzqwtmrfcgxmxbm.supabase.co/storage/v1/object/public/aabc/AABVC-image.png",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "AAB VC",
     description:
-      "AAB VC is an AI-powered mock interview platform that helps you practice for your next job interview.",
+      "AAB VC is an independent private principal investor engaged in control investments in privately owned businesses with significant growth potential in Asia and beyond.",
     images: ["https://nmusjgzqwtmrfcgxmxbm.supabase.co/storage/v1/object/public/aabc/AABVC-image.png"],
     creator: "@brian",
   },
